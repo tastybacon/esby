@@ -1,5 +1,4 @@
-require "esby/version"
+require 'esby/version'
 
-module Esby
-  # Your code goes here...
-end
+# Top level module for the gem.
+module Esby; end
